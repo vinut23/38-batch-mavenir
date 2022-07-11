@@ -1,0 +1,6 @@
+ASSIGNMENT-1
+
+Daemonset is used where pods has to created or rin in all worker nodes with proper utilization of disk without specifying any replicas,
+daemonset will create no of pods which are equal to no of nodes
+
+
